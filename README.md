@@ -13,7 +13,7 @@ An interactive UI/UX design and research case study for a smartwatch application
 2. **Wireframes:** Developed low-fidelity layouts customized specifically for smartwatches.
 3. **High-Fidelity Prototypes:** Designed the final polished screens, incorporating dynamic transitions and interactive on-drag components.
 
-### 🖼️ Project Prototype Preview
+### 🖼️ Preview the form for the project
 <img width="901" height="601" alt="Smartwatch App Design" src="https://github.com/user-attachments/assets/bb4d6350-2fd9-4a5b-b292-318fc9179c44" />
 
 ## 🧪 Usability Testing & Results
